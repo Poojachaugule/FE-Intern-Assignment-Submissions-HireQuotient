@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FE-Intern-Assignment-Submissions-HireQuotient/static/css/main.9f5fcb99.css",
+    "main.js": "/FE-Intern-Assignment-Submissions-HireQuotient/static/js/main.8df21dae.js",
+    "index.html": "/FE-Intern-Assignment-Submissions-HireQuotient/index.html",
+    "main.9f5fcb99.css.map": "/FE-Intern-Assignment-Submissions-HireQuotient/static/css/main.9f5fcb99.css.map",
+    "main.8df21dae.js.map": "/FE-Intern-Assignment-Submissions-HireQuotient/static/js/main.8df21dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f5fcb99.css",
+    "static/js/main.8df21dae.js"
+  ]
+}
